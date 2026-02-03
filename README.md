@@ -1,12 +1,15 @@
 # ASDF2.jl
 
+> [!WARNING]
+> **This repo now lives at [ASDF.jl](github.com/JuliaAstro/ASDF.jl).**
+
 A new [Advanced Scientific Data Format
 (ASDF)](https://asdf-standard.readthedocs.io/en/latest/index.html)
 package, written in Julia.
 
-See [`ASDF.jl`](http://github.com/eschnett/ASDF.jl) for the older one
+See [`ASDF.jl`](http://github.com/eschnett/ASDF.jl) v1 for the older one
 which is based on the Python
-[`asdf`](https://github.com/spacetelescope/asdf) Python package.
+[`asdf`](https://github.com/spacetelescope/asdf) Python package. v2 contains the pure Julia version first implemented in this repo.
 
 * [Documentation](https://juliaastro.org/ASDF2.jl/dev/)
 * [![GitHub
